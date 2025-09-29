@@ -4,6 +4,8 @@ Welcome 👋
 This repository is the official place to provide **feedback, bug reports, and feature requests** for [Seatplan.io](https://seatplan.io).
 
 ---
+For billing and technical support please email us at **info@znzsystems.com** 
+---
 
 ## 📌 How to Submit Feedback
 
